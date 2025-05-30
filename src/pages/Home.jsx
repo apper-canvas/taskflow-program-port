@@ -7,6 +7,7 @@ const Home = ({ darkMode, setDarkMode }) => {
   return (
     <div className="min-h-screen">
       {/* Header */}
+      <maan></maan>
       <motion.header 
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
