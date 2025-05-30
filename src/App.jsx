@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import { Routes, Route } from 'react-router-dom'
 import { ToastContainer } from 'react-toastify'
-import 'react-toastify/dist/ReactToastif.css'
-import Home from './pages/Home1'
+import 'react-toastify/dist/ReactToastify.css'
+import Home from './pages/Home'
 import NotFound from './pages/NotFound'
 
 function App() {
