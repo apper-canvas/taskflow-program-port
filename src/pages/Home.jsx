@@ -25,7 +25,7 @@ const Home = ({ darkMode, setDarkMode }) => {
                 <ApperIcon name="CheckSquare" className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
               </div>
               <h1 className="text-xl sm:text-2xl lg:text-3xl font-bold text-gradient">
-                TaskFlow 1
+                TaskFlow 2
               </h1>
             </motion.div>
 
